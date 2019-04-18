@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Zis iz a vecta, it vecs tar.
- * 3e+5 times better than Thomas' vector because
+ * 3e-5 times better than Thomas' vector because
  * this one is written in Java! Yay!
  * 
  * Normally this class should extend ArrayList (or at least Collection);
